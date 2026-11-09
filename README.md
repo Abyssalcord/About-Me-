@@ -5,6 +5,9 @@ A 1stYr Computer Engineering student in University of Perpetual Help System DALT
 
 Seminars:
 UPHSD Programming Refresher 2026
+Arduino Concept of the Enrichment Seminar for Arduino Applications 2026
+Karcee Calculator Philippines Webinar 2026
+
 
 Certifications:
 
