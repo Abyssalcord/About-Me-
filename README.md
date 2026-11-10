@@ -1,4 +1,4 @@
-### Hi there, I'm Niel Cedrick P. Mari! 
+### Hey there, I'm Niel Cedrick P. Mari! 
 
 📍 Based in the Philippines | 💡 Aspiring Network Engineer & Computer Engineering Student
 
@@ -12,9 +12,13 @@ Welcome to my GitHub profile! I am an aspiring Network Engineer with a strong fo
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40" height="40" alt="Maven" />
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino" />
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
 </p>
 
